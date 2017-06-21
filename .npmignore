@@ -61,7 +61,8 @@ typings/
 fastText
 
 # Compiled code
-lib
+# Keep compile code in npm
+# lib
 
 # macOS
 .DS_Store

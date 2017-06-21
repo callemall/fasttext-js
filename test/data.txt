@@ -1,0 +1,13 @@
+Ha Noi __label__VIETNAM
+Sai Gon __label__VIETNAM
+Ho Chi Minh __label__VIETNAM
+Can Tho __label__VIETNAM
+Da Nang __label__VIETNAM
+Hue __label__VIETNAM
+Hai Phong __label__VIETNAM
+Nha Trang __label__VIETNAM
+Decorah __label__US
+Dallas __label__US
+New York __label__US
+Chicago __label__US
+San Francisco __label__US
