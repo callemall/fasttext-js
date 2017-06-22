@@ -1,12 +1,13 @@
 import { spawn } from 'child_process';
 
+import getFastTextPath from './getFastTextPath';
 import normalize from './normalize';
 
 // model: string (filePath)
 // sentences: arrayOf(string)
 const predictAsync = (modelPath, sentences) =>
   new Promise((resolve, reject) => {
-    const child = spawn('./fastText/fasttext', ['predict-prob', modelPath, '-']);
+    const child = spawn(getFastTextPath(), ['predict-prob', modelPath, '-']);
 
     let stdout = '';
 
