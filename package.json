@@ -2,7 +2,7 @@
   "name": "fasttext-js",
   "version": "1.0.2",
   "description": "Node.js interface for fastText",
-  "main": "lib/index.js",
+  "main": "lib",
   "repository": "https://github.com/callemall/fasttext-js.git",
   "author": "Quang Lam <quang@call-em-all.com>",
   "license": "MIT",
