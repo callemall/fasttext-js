@@ -1,4 +1,6 @@
 # fasttext-js
+
+[![npm package](https://img.shields.io/npm/v/fasttext-js.svg?style=flat-square)](https://www.npmjs.org/package/fasttext-js)
 [![Build Status](https://travis-ci.org/callemall/fasttext-js.svg?branch=master)](https://travis-ci.org/callemall/fasttext-js)
 
 Node.js interface for fastText
