@@ -1,5 +1,9 @@
 # fasttext-js
 
+This package is no longer maintained. You should use [fasttext-node](https://github.com/jazzyarchitects/fasttext-node) instead.
+
+---
+
 [![npm package](https://img.shields.io/npm/v/fasttext-js.svg?style=flat-square)](https://www.npmjs.org/package/fasttext-js)
 [![Build Status](https://travis-ci.org/callemall/fasttext-js.svg?branch=master)](https://travis-ci.org/callemall/fasttext-js)
 
